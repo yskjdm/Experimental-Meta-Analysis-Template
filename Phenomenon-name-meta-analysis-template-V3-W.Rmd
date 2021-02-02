@@ -14,6 +14,8 @@ output:
 Author: me
 ---
 
+Github link: https://github.com/yskjdm/Experimental-Meta-Analysis-Template
+
 This is a RMarkdown template for experimental studies meta-analysis in Psychology, developed by Siu Kit Yeung (MPhil student) and Dr. Gilad Feldman (Assistant Professor) from the University of Hong Kong Department of Psychology. This is integrated and adapted with reference to Yeung, Yay, and Feldman (2020) Omission-commission asymmetries in morality and decisions: 
 Meta-analysis of the Omission-bias, as well as Fillon, Kutscher, and Feldman (2020) Impact of past behavior normality on regret: Meta-analysis of exceptionality effect. The corresponding datafile is "Experimental Meta-Analysis Template Full Coding Sheet.xlsx" (simulated data). Other collaborators include John Protzko, Adrien Fillon, Mahmoud Medhat Elsherif, and David Moreau.
 
